@@ -125,8 +125,6 @@ with [PayPal](https://www.paypal.com/donate/?hosted_button_id=5QMN5UQH7LDT4)
 
 ## Privacy policy
 
-**Privacy Policy**
-
 This section outlines the privacy practices and policies for the use of the Brownie application,
 available on
 the Google Play Store.
